@@ -6,15 +6,12 @@ In order to make a successful money transfer, you must enter the username of ano
 
 There are 2 accounts registered:
 
-Arthur Malumian
-
-- user: am
-- PIN: 1111
-
-Jonas Schmedtmann
-
-- user: js
-- PIN: 2222
+- Arthur Malumian
+  - user: am
+  - PIN: 1111
+- Jonas Schmedtmann
+  - user: js
+  - PIN: 2222
 
 ## Screenshot
 
