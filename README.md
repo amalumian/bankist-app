@@ -13,6 +13,8 @@ There are 2 accounts registered:
   - user: js
   - PIN: 2222
 
+Made on [Jonas Schmedtmann's course](https://www.udemy.com/course/the-complete-javascript-course/).
+
 ## Screenshot
 
 ![screenshot](https://i.imgur.com/d3hHrRF.png)
